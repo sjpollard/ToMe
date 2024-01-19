@@ -10,7 +10,7 @@ dependencies:
   - pytorch=*=*cuda*
   - torchvision=*=*cuda*
   - numpy
-  - timm==0.4.12
+  - timm
   - jupyter
   - pip:
     - pillow
